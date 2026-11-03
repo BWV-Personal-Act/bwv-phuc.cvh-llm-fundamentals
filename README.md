@@ -37,3 +37,4 @@ Xem log riêng: `npm start 2> app.log`.
 
 - Dùng JavaScript (`.mjs`) thay vì TypeScript để không cần bước build.
 - Giá trong `token-monitor.mjs` là ước tính, kiểm tra lại bảng giá Groq khi cần.
+# LLM-Fundamentals
